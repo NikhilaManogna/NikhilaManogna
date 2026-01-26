@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Nikhila Manogna
 
-## 🚀 Software Engineer | Data Analytics Specialist | Recent Grad
+## 🚀 Software Engineer | Data Analytics Specialist |
 
 - 🎓 B.Tech CSE (Data Analytics) from VIT-AP | GPA: 9.28/10
 - 💼 1 year at DBS Tech India (Backend Engineering & Analytics)
