@@ -17,8 +17,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
-### 📊 GitHub Stats
-![Nikhila's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilaManogna&show_icons=true&theme=radical)
 
 ### 📌 Featured Projects
 - **Distributed URL Shortener**: High-performance URL shortening service with Redis caching
