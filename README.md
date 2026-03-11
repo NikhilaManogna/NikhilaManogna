@@ -21,8 +21,6 @@ Building scalable backend systems, data-driven applications, and machine learnin
 
 </p>
 
----
-
 ## 👩‍💻 About Me
 
 • Software Engineer with 1 year experience in backend development and system integration  
@@ -31,7 +29,7 @@ Building scalable backend systems, data-driven applications, and machine learnin
 • Experience developing microservices, REST APIs, and real-time monitoring systems  
 • Passionate about solving real-world problems using data, cloud, and machine learning
 
----
+
 
 ## 🚧 Current Focus
 
@@ -120,7 +118,7 @@ Data & Analytics: Power BI, Pandas, Matplotlib, Data Visualization
 Tools & Technologies: Docker, Git, Jenkins, Kafka  
 Core CS: Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks
 
----
+
 
 ## ⚙️ Tech Stack
 
